@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="666f523d-0dc7-43e5-a1c9-ae8d32cf1224" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ProfileUpdater.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <marker date="1548761755067" expanded="true" signature="34:7639" ph="{...}" />
+                <marker date="1548761755067" expanded="false" signature="47:331" ph="..." />
+                <marker date="1548761755067" expanded="true" signature="380:7637" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="887:1607" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="1642:1724" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="1746:2175" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="2216:2566" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="2291:2445" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="2462:2556" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="2780:4553" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="2832:3059" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="3488:3608" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="3630:4541" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="3681:3844" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="3880:4128" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="4189:4527" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="4397:4509" ph="/* ReferenceToDatabase.AddScore(); ... */" />
+                <marker date="1548761755067" expanded="true" signature="4629:4845" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="4878:4972" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5013:5127" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5169:5238" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5284:5581" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5402:5569" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5653:6725" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5731:5812" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="5849:6533" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="6016:6519" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="6226:6432" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="6572:6686" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="6771:7631" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="6854:7209" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="6979:7195" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="7273:7621" ph="{...}" />
+                <marker date="1548761755067" expanded="true" signature="7391:7607" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DataBaseHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+              <folding>
+                <marker date="1549878147694" expanded="true" signature="6:72" ph="..." />
+                <marker date="1549878147694" expanded="true" signature="109:8592" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="120:288" ph="..." />
+                <marker date="1549878147694" expanded="true" signature="292:426" ph="/* Handler for UI buttons on the scene.  Also performs some ... */" />
+                <marker date="1549878147694" expanded="true" signature="477:8590" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="952:1098" ph="/* When the app starts, check to make sure that we have ... */" />
+                <marker date="1549878147694" expanded="true" signature="1134:1606" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="1314:1591" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="1416:1459" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="1697:2118" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="1758:1912" ph="/* NOTE: You'll need to replace this url with your Firebase App's database ... */" />
+                <marker date="1549878147694" expanded="true" signature="2147:4814" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="2315:4811" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="2364:2462" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="2701:4801" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="2767:4789" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="2929:3106" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="3112:4775" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="3772:4493" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="4615:4759" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="4923:5127" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="5021:5121" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="5155:6124" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="5356:5433" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="5676:5833" ph="/* Use a transaction to ensure that we do not encounter issues with ... */" />
+                <marker date="1549878147694" expanded="true" signature="5916:6116" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="5956:6018" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="6046:6106" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="6136:6400" ph="/* A realtime database transaction receives MutableData which can be modified ... */" />
+                <marker date="1549878147694" expanded="true" signature="6468:8586" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="6567:6621" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="6671:7563" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="6688:6860" ph="/* If the current list of scores is greater or equal to our maximum allowed number, ... */" />
+                <marker date="1549878147694" expanded="true" signature="6969:7270" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="7173:7260" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="7373:7437" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="7678:7959" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="7902:7951" ph="{...}" />
+                <marker date="1549878147694" expanded="true" signature="7989:8040" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProfileUpdater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataBaseHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataBaseHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Captures" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Logcat" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ProfileUpdater.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <marker date="1548761755067" expanded="true" signature="34:7639" ph="{...}" />
+            <marker date="1548761755067" expanded="false" signature="47:331" ph="..." />
+            <marker date="1548761755067" expanded="true" signature="380:7637" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="887:1607" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="1642:1724" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="1746:2175" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="2216:2566" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="2291:2445" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="2462:2556" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="2780:4553" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="2832:3059" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="3488:3608" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="3630:4541" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="3681:3844" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="3880:4128" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="4189:4527" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="4397:4509" ph="/* ReferenceToDatabase.AddScore(); ... */" />
+            <marker date="1548761755067" expanded="true" signature="4629:4845" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="4878:4972" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5013:5127" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5169:5238" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5284:5581" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5402:5569" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5653:6725" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5731:5812" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="5849:6533" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="6016:6519" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="6226:6432" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="6572:6686" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="6771:7631" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="6854:7209" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="6979:7195" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="7273:7621" ph="{...}" />
+            <marker date="1548761755067" expanded="true" signature="7391:7607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DataBaseHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding>
+            <marker date="1549878147694" expanded="true" signature="6:72" ph="..." />
+            <marker date="1549878147694" expanded="true" signature="109:8592" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="120:288" ph="..." />
+            <marker date="1549878147694" expanded="true" signature="292:426" ph="/* Handler for UI buttons on the scene.  Also performs some ... */" />
+            <marker date="1549878147694" expanded="true" signature="477:8590" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="952:1098" ph="/* When the app starts, check to make sure that we have ... */" />
+            <marker date="1549878147694" expanded="true" signature="1134:1606" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="1314:1591" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="1416:1459" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="1697:2118" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="1758:1912" ph="/* NOTE: You'll need to replace this url with your Firebase App's database ... */" />
+            <marker date="1549878147694" expanded="true" signature="2147:4814" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="2315:4811" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="2364:2462" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="2701:4801" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="2767:4789" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="2929:3106" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="3112:4775" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="3772:4493" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="4615:4759" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="4923:5127" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="5021:5121" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="5155:6124" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="5356:5433" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="5676:5833" ph="/* Use a transaction to ensure that we do not encounter issues with ... */" />
+            <marker date="1549878147694" expanded="true" signature="5916:6116" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="5956:6018" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="6046:6106" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="6136:6400" ph="/* A realtime database transaction receives MutableData which can be modified ... */" />
+            <marker date="1549878147694" expanded="true" signature="6468:8586" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="6567:6621" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="6671:7563" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="6688:6860" ph="/* If the current list of scores is greater or equal to our maximum allowed number, ... */" />
+            <marker date="1549878147694" expanded="true" signature="6969:7270" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="7173:7260" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="7373:7437" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="7678:7959" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="7902:7951" ph="{...}" />
+            <marker date="1549878147694" expanded="true" signature="7989:8040" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

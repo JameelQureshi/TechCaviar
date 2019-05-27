@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8581884d-9ccb-47ff-acb1-bdb194f6430a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCloudHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="145" column="48" selection-start-line="145" selection-start-column="48" selection-end-line="145" selection-end-column="48" />
+              <folding>
+                <marker date="1548277165691" expanded="false" signature="6:114" ph="..." />
+                <marker date="1548277165691" expanded="true" signature="116:314" ph="/// This MonoBehaviour implements the Cloud Reco Event handling for this sample. ... " />
+                <marker date="1548277165691" expanded="true" signature="386:5482" ph="{...}" />
+                <marker date="1548277165691" expanded="false" signature="393:744" ph="PRIVATE_MEMBER_VARIABLES" />
+                <marker date="1548277165691" expanded="false" signature="903:1179" ph="EXPOSED_PUBLIC_VARIABLES" />
+                <marker date="1548277165691" expanded="true" signature="941:1109" ph="/// can be set in the Unity inspector to reference a ImageTargetBehaviour that is used for augmentations of new c ... " />
+                <marker date="1548277165691" expanded="false" signature="1185:1823" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
+                <marker date="1548277165691" expanded="true" signature="1226:1312" ph="/// register for events at the CloudRecoBehaviour ... " />
+                <marker date="1548277165691" expanded="true" signature="1329:1776" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="1518:1597" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="1830:5478" ph="ICloudRecoEventHandler_IMPLEMENTATION" />
+                <marker date="1548277165691" expanded="true" signature="1881:1980" ph="/// called when TargetFinder has been initialized successfully ... " />
+                <marker date="1548277165691" expanded="true" signature="2038:2142" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="2147:2219" ph="/// visualize initialization errors ... " />
+                <marker date="1548277165691" expanded="true" signature="2281:2293" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="2299:2363" ph="/// visualize update errors ... " />
+                <marker date="1548277165691" expanded="true" signature="2431:2443" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="2449:2591" ph="/// when we start scanning, unregister Trackable from the ImageTargetTemplate, then delete all trackables ... " />
+                <marker date="1548277165691" expanded="true" signature="2637:2911" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="2697:2905" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="2917:3034" ph="/// Handles new search results ... " />
+                <marker date="1548277165691" expanded="true" signature="3120:5220" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="3908:5015" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="4224:4434" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="4496:4568" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="4618:4736" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="4786:4991" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="5099:5214" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="5252:5421" ph="{...}" />
+                <marker date="1548277165691" expanded="true" signature="5303:5415" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImageTargetPlayVideo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <marker date="1548080704486" expanded="false" signature="6:93" ph="..." />
+                <marker date="1548080704486" expanded="true" signature="168:1395" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="342:542" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="447:536" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="568:742" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="620:653" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="703:736" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="861:1393" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="1035:1206" ph="{...}" />
+                <marker date="1548080704486" expanded="true" signature="1219:1387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SessionManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding>
+                <marker date="1548190597175" expanded="false" signature="6:167" ph="..." />
+                <marker date="1548190597175" expanded="true" signature="213:1416" ph="{...}" />
+                <marker date="1548190597175" expanded="true" signature="430:756" ph="{...}" />
+                <marker date="1548190597175" expanded="true" signature="502:747" ph="/* if (PlayerPrefs.GetInt(&quot;UserlogedIn&quot; )== 1) ... */" />
+                <marker date="1548190597175" expanded="true" signature="772:1045" ph="{...}" />
+                <marker date="1548190597175" expanded="true" signature="1076:1209" ph="{...}" />
+                <marker date="1548190597175" expanded="true" signature="1268:1411" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SharingPoints.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+              <folding>
+                <marker date="1548400953138" expanded="false" signature="6:167" ph="..." />
+                <marker date="1548400953138" expanded="true" signature="212:1829" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="370:533" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="452:503" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="510:529" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="574:958" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="988:1215" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="994:1123" ph="/* path = System.IO.Path.Combine(Application.persistentDataPath, &quot;testTexture.png&quot;); ... */" />
+                <marker date="1548400953138" expanded="true" signature="1240:1351" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="1379:1515" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="1544:1723" ph="{...}" />
+                <marker date="1548400953138" expanded="true" signature="1758:1825" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LinkButton</find>
+      <find>ShareBtn</find>
+      <find>ShareScreenshot</find>
+      <find>screenShotPath</find>
+      <find>CallSocialShareAdvanced</find>
+      <find>CallSocialShareRoutine</find>
+      <find>ScreenCapture</find>
+      <find>CaptureScreenshot</find>
+      <find>ShareScreenshotWithText</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCloudHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageTargetPlayVideo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SessionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SharingPoints.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleCloudHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Share.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NativeShare.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SharingPoints.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="706" />
+    <option name="y" value="68" />
+    <option name="width" value="968" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12100213" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Captures" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Logcat" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Share.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/NatShare/README.md" />
+    <entry file="file://$USER_HOME$/Downloads/Compressed/General Sharing/Assets/Scripts/GeneralSharing.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NativeShare.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCloudHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="145" column="48" selection-start-line="145" selection-start-column="48" selection-end-line="145" selection-end-column="48" />
+          <folding>
+            <marker date="1548277165691" expanded="false" signature="6:114" ph="..." />
+            <marker date="1548277165691" expanded="true" signature="116:314" ph="/// This MonoBehaviour implements the Cloud Reco Event handling for this sample. ... " />
+            <marker date="1548277165691" expanded="true" signature="386:5482" ph="{...}" />
+            <marker date="1548277165691" expanded="false" signature="393:744" ph="PRIVATE_MEMBER_VARIABLES" />
+            <marker date="1548277165691" expanded="false" signature="903:1179" ph="EXPOSED_PUBLIC_VARIABLES" />
+            <marker date="1548277165691" expanded="true" signature="941:1109" ph="/// can be set in the Unity inspector to reference a ImageTargetBehaviour that is used for augmentations of new c ... " />
+            <marker date="1548277165691" expanded="false" signature="1185:1823" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1548277165691" expanded="true" signature="1226:1312" ph="/// register for events at the CloudRecoBehaviour ... " />
+            <marker date="1548277165691" expanded="true" signature="1329:1776" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="1518:1597" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="1830:5478" ph="ICloudRecoEventHandler_IMPLEMENTATION" />
+            <marker date="1548277165691" expanded="true" signature="1881:1980" ph="/// called when TargetFinder has been initialized successfully ... " />
+            <marker date="1548277165691" expanded="true" signature="2038:2142" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="2147:2219" ph="/// visualize initialization errors ... " />
+            <marker date="1548277165691" expanded="true" signature="2281:2293" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="2299:2363" ph="/// visualize update errors ... " />
+            <marker date="1548277165691" expanded="true" signature="2431:2443" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="2449:2591" ph="/// when we start scanning, unregister Trackable from the ImageTargetTemplate, then delete all trackables ... " />
+            <marker date="1548277165691" expanded="true" signature="2637:2911" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="2697:2905" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="2917:3034" ph="/// Handles new search results ... " />
+            <marker date="1548277165691" expanded="true" signature="3120:5220" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="3908:5015" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="4224:4434" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="4496:4568" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="4618:4736" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="4786:4991" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="5099:5214" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="5252:5421" ph="{...}" />
+            <marker date="1548277165691" expanded="true" signature="5303:5415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImageTargetPlayVideo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1548080704486" expanded="false" signature="6:93" ph="..." />
+            <marker date="1548080704486" expanded="true" signature="168:1395" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="342:542" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="447:536" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="568:742" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="620:653" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="703:736" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="861:1393" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="1035:1206" ph="{...}" />
+            <marker date="1548080704486" expanded="true" signature="1219:1387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SessionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <marker date="1548190597175" expanded="false" signature="6:167" ph="..." />
+            <marker date="1548190597175" expanded="true" signature="213:1416" ph="{...}" />
+            <marker date="1548190597175" expanded="true" signature="430:756" ph="{...}" />
+            <marker date="1548190597175" expanded="true" signature="502:747" ph="/* if (PlayerPrefs.GetInt(&quot;UserlogedIn&quot; )== 1) ... */" />
+            <marker date="1548190597175" expanded="true" signature="772:1045" ph="{...}" />
+            <marker date="1548190597175" expanded="true" signature="1076:1209" ph="{...}" />
+            <marker date="1548190597175" expanded="true" signature="1268:1411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SharingPoints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <marker date="1548400953138" expanded="false" signature="6:167" ph="..." />
+            <marker date="1548400953138" expanded="true" signature="212:1829" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="370:533" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="452:503" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="510:529" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="574:958" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="988:1215" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="994:1123" ph="/* path = System.IO.Path.Combine(Application.persistentDataPath, &quot;testTexture.png&quot;); ... */" />
+            <marker date="1548400953138" expanded="true" signature="1240:1351" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="1379:1515" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="1544:1723" ph="{...}" />
+            <marker date="1548400953138" expanded="true" signature="1758:1825" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
