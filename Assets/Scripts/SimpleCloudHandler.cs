@@ -10,7 +10,7 @@ using System.IO;
 /// This MonoBehaviour implements the Cloud Reco Event handling for this sample.
 /// It registers itself at the CloudRecoBehaviour and is notified of new search results.
 /// </summary>
-public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
+public class SimpleCloudHandler : MonoBehaviour, IObjectRecoEventHandler
 {
     #region PRIVATE_MEMBER_VARIABLES
 
@@ -110,7 +110,7 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
         {
             // clear all known trackables
             ObjectTracker tracker = TrackerManager.Instance.GetTracker<ObjectTracker>();
-            tracker.TargetFinder.ClearTrackables(false);
+            tracker.GetTargetFinder<ImageTargetFinder>().ClearTrackables(false);
         }
     }
 
@@ -134,7 +134,7 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
             augmentation.transform.parent = newImageTarget.transform;
 
         // enable the new result with the same ImageTargetBehaviour:
-        ImageTargetBehaviour imageTargetBehaviour = (ImageTargetBehaviour)mImageTracker.TargetFinder.EnableTracking(targetSearchResult, newImageTarget);
+        ImageTargetBehaviour imageTargetBehaviour = (ImageTargetBehaviour)mImageTracker.GetTargetFinder<ImageTargetFinder>().EnableTracking(targetSearchResult, newImageTarget);
 
 
         //Debug.Log("Metadata value is " + MetaDataRecieved);
@@ -154,57 +154,7 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
                 MyPlayer.LoadYoutubeVideo(LinksthroughMatadata[0]);
                 MyPlayer.objectsToRenderTheVideoImage[0] = imageTargetBehaviour.transform.GetChild(0).gameObject;
             }
-            
-            if (LinksthroughMatadata[1] != null)
-            {
-                if (LinksthroughMatadata[1].Length > 4) {
-                    facebookURL = LinksthroughMatadata[1];
-                    haveFacebook = true;
-                }
 
-            }
-            else
-            {
-                haveFacebook = false;
-            }
-
-            if (LinksthroughMatadata[2] != null)
-            {
-                if (LinksthroughMatadata[2].Length > 4)
-                {
-                    instagramURL = LinksthroughMatadata[2];
-                    haveInstagram = true;
-                }
-             }
-            else
-            {
-                haveInstagram = false;
-            }
-
-            if (LinksthroughMatadata[3] != null)
-            {
-                if (LinksthroughMatadata[3].Length > 4)
-                {
-                    buyURL = LinksthroughMatadata[3];
-                    haveBuy = true;
-                }
-            }
-            else
-            {
-                haveBuy = false;
-            }
-            if (LinksthroughMatadata[4] != null)
-            {
-                if (LinksthroughMatadata[4].Length > 4)
-                {
-                    webURL = LinksthroughMatadata[4];
-                    haveWeb = true;
-                }
-            }
-            else
-            {
-                haveWeb = false;
-            }
 
         }
 
@@ -216,40 +166,8 @@ public class SimpleCloudHandler : MonoBehaviour, ICloudRecoEventHandler
         }
     }
 
-    public void OpenVideoUrl()
-    {
-        if (LinksthroughMatadata[1] != null)
-        {
-            MyPlayer.PlayPause();
-            StartCoroutine(LinkRecoIncrementer(PlayerPrefs.GetString("projectid")));
-            Application.OpenURL(LinksthroughMatadata[1]);
-        }
-    }
-    IEnumerator RecoIncrementer (string projectid) 
-    {
-        print("Adding reco from the web");
-        WWW www = new WWW("http://18.195.233.165/project_apis/" + projectid + "/image_increment?token=PzJpRTo2d9dJ0D7Xv6bcGMPUj24zAgRa");
-        yield return www;
-    }
-    IEnumerator LinkRecoIncrementer (string projectid) 
-    {
-        print("Adding link reco from the web");
-        WWW www = new WWW("http://18.195.233.165/project_apis/" + projectid + "/link_hit_increment?token=PzJpRTo2d9dJ0D7Xv6bcGMPUj24zAgRa");
-        yield return www;
-    }
-    IEnumerator DownloadImage (string projectid) 
-    {
-        print("Downloading from the web");
-        WWW www = new WWW("http://18.195.233.165/project_apis/" + projectid + "/get_target_image?token=PzJpRTo2d9dJ0D7Xv6bcGMPUj24zAgRa");
-        print("http://18.195.233.165/project_apis/" + projectid + "/get_target_image?token=PzJpRTo2d9dJ0D7Xv6bcGMPUj24zAgRa");
-        yield return www;
-        texture = www.texture;
-        filePath = Path.Combine(Application.temporaryCachePath, "shared img.png");
-        File.WriteAllBytes(filePath, texture.EncodeToPNG());
-        PlayerPrefs.SetString("Imagepath", filePath);
-        print(PlayerPrefs.GetString("Imagepath"));
-    }
-    
+
+
     #endregion // ICloudRecoEventHandler_IMPLEMENTATION
 
 
