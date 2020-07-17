@@ -22,7 +22,7 @@ public class ImageTargetPlayVideo : MonoBehaviour, ITrackableEventHandler
     {
         if (newStatus == TrackableBehaviour.Status.DETECTED ||newStatus == TrackableBehaviour.Status.TRACKED ||newStatus == TrackableBehaviour.Status.EXTENDED_TRACKED)
         {
-            MyPlayer.PlayButton();
+            MyPlayer.Play();
 
             Debug.Log("Target Detected");
 

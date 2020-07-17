@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/player.unity
     guid: 0273c2a13d73442fc98823397bd8c1c9
+  - enabled: 1
+    path: Assets/Scenes/ARMobileAnimation.unity
+    guid: bb6dfeef2ac9b493986eb6441d50414e
+  - enabled: 1
+    path: Assets/Scenes/arcard.unity
+    guid: 92b5852c13b854c2a84197a608d198fc
   m_configObjects: {}

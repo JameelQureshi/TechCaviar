@@ -151,7 +151,8 @@ public class SimpleCloudHandler : MonoBehaviour, IObjectRecoEventHandler
 
             if (LinksthroughMatadata[0] != null)
             {
-                MyPlayer.LoadYoutubeVideo(LinksthroughMatadata[0]);
+                //MyPlayer.LoadYoutubeVideo(LinksthroughMatadata[0]);
+                MyPlayer.Play(LinksthroughMatadata[0]);
                 MyPlayer.objectsToRenderTheVideoImage[0] = imageTargetBehaviour.transform.GetChild(0).gameObject;
             }
 

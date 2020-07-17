@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 0168b70f1bddd43fc9d7472cb1ce312a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: directionalLight1
+    100002: directionalLight2
+    100004: //RootNode
+    100006: IPHONE_CONTROL
+    100008: persp1
+    100010: place3dTexture1
+    100012: place3dTexture2
+    100014: SM1_iphone11_pro_speaker001
+    100016: SM2_iphone11_pro_back001
+    100018: SM2_iphone11_pro_body001
+    100020: SM2_iphone11_pro_cameras001
+    100022: SM2_iphone11_pro_edge001
+    100024: SM2_iphone11_pro_front001
+    100026: SM2_iphone11_pro_glass001
+    100028: SM2_iphone11_pro_glass_cam001
+    100030: SM2_iphone11_pro_glass_front001
+    100032: SM2_iphone11_pro_lighning001
+    100034: SM2_iphone11_pro_logo001
+    100036: SM2_iphone11_pro_screen001
+    400000: directionalLight1
+    400002: directionalLight2
+    400004: //RootNode
+    400006: IPHONE_CONTROL
+    400008: persp1
+    400010: place3dTexture1
+    400012: place3dTexture2
+    400014: SM1_iphone11_pro_speaker001
+    400016: SM2_iphone11_pro_back001
+    400018: SM2_iphone11_pro_body001
+    400020: SM2_iphone11_pro_cameras001
+    400022: SM2_iphone11_pro_edge001
+    400024: SM2_iphone11_pro_front001
+    400026: SM2_iphone11_pro_glass001
+    400028: SM2_iphone11_pro_glass_cam001
+    400030: SM2_iphone11_pro_glass_front001
+    400032: SM2_iphone11_pro_lighning001
+    400034: SM2_iphone11_pro_logo001
+    400036: SM2_iphone11_pro_screen001
+    2000000: persp1
+    2100000: lambert2
+    2100002: Body_Chrome
+    2100004: Steel_black
+    2100006: Black
+    2100008: GlassX
+    2100010: Antenna_black
+    2100012: Plastik_black
+    2100014: Gold
+    2100016: Glass_matte
+    2100018: Rubber_black
+    2100020: Front
+    2100022: Screen11Pro
+    2100024: Plastik_cam
+    2100026: Glass_cam
+    2100028: Glass_flash
+    2100030: Light_yellow
+    2100032: Light_orange
+    2100034: GlassX2
+    2100036: Black_back
+    2300000: IPHONE_CONTROL
+    2300002: SM1_iphone11_pro_speaker001
+    2300004: SM2_iphone11_pro_back001
+    2300006: SM2_iphone11_pro_body001
+    2300008: SM2_iphone11_pro_cameras001
+    2300010: SM2_iphone11_pro_edge001
+    2300012: SM2_iphone11_pro_front001
+    2300014: SM2_iphone11_pro_glass001
+    2300016: SM2_iphone11_pro_glass_cam001
+    2300018: SM2_iphone11_pro_glass_front001
+    2300020: SM2_iphone11_pro_lighning001
+    2300022: SM2_iphone11_pro_logo001
+    2300024: SM2_iphone11_pro_screen001
+    3300000: IPHONE_CONTROL
+    3300002: SM1_iphone11_pro_speaker001
+    3300004: SM2_iphone11_pro_back001
+    3300006: SM2_iphone11_pro_body001
+    3300008: SM2_iphone11_pro_cameras001
+    3300010: SM2_iphone11_pro_edge001
+    3300012: SM2_iphone11_pro_front001
+    3300014: SM2_iphone11_pro_glass001
+    3300016: SM2_iphone11_pro_glass_cam001
+    3300018: SM2_iphone11_pro_glass_front001
+    3300020: SM2_iphone11_pro_lighning001
+    3300022: SM2_iphone11_pro_logo001
+    3300024: SM2_iphone11_pro_screen001
+    4300000: IPHONE_CONTROL
+    4300002: SM1_iphone11_pro_speaker001
+    4300004: SM2_iphone11_pro_glass_front001
+    4300006: SM2_iphone11_pro_body001
+    4300008: SM2_iphone11_pro_lighning001
+    4300010: SM2_iphone11_pro_glass001
+    4300012: SM2_iphone11_pro_edge001
+    4300014: SM2_iphone11_pro_front001
+    4300016: SM2_iphone11_pro_screen001
+    4300018: SM2_iphone11_pro_cameras001
+    4300020: SM2_iphone11_pro_logo001
+    4300022: SM2_iphone11_pro_back001
+    4300024: SM2_iphone11_pro_glass_cam001
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: directionalLight1
+    10800002: directionalLight2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antenna_black
+    second: {fileID: 2100000, guid: 789de9736119643b4a2086156b131d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 227957e2d6dc44faebdeaa2fb0742222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_back
+    second: {fileID: 2100000, guid: 1f6db00383ad9411c941045d65debdf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Chrome
+    second: {fileID: 2100000, guid: b52b0c3bebd1446869c64d3ac51e638e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front
+    second: {fileID: 2100000, guid: f4bd560715b234dc4aa8fc1bd468d6c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassX
+    second: {fileID: 2100000, guid: 3d7350bd1c6cc4f649d15fe213fa69e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassX2
+    second: {fileID: 2100000, guid: ee5185ff2a89a41ecaa1412a2d3a0b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_cam
+    second: {fileID: 2100000, guid: f4016475c093b4f43bb050a2ebeacf98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_flash
+    second: {fileID: 2100000, guid: 813616f3901f04d8ca411d94805ed793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_matte
+    second: {fileID: 2100000, guid: ef3f41be267d64ca3a970b9e13ce7c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 1c1f51edea3ad4f0bae5bbe556874c1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_orange
+    second: {fileID: 2100000, guid: 2442a3c10ddc0441a88e890f2d462b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_yellow
+    second: {fileID: 2100000, guid: bf7f9400322a04d059f6a0ea2efac0eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik_black
+    second: {fileID: 2100000, guid: 0eeced1a0851b435d9cd3b13149948fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik_cam
+    second: {fileID: 2100000, guid: 26fca5d29576d4b3f8de15bcd761cbfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber_black
+    second: {fileID: 2100000, guid: 33b118ba5cdb747999f2ae8ff5c81aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen11Pro
+    second: {fileID: 2100000, guid: 9a046475249924cfda66522e8a20e319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_black
+    second: {fileID: 2100000, guid: b54ac106f672b4833a62c3a5f5cb25f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: b70d9f48a73d342fcb109be12475d1d7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tech_Caviar_Glass_Specular
+    second: {fileID: 2800000, guid: 960d4d22fa4f743b88c58e2a186aa10d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

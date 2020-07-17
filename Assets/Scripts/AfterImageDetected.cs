@@ -8,7 +8,6 @@ public class AfterImageDetected : MonoBehaviour, ITrackableEventHandler
 {
     private TrackableBehaviour mTrackableBehaviour;
     public VideoPlayer MyPlayer;
-
     void Start()
     {
         mTrackableBehaviour = GetComponent<TrackableBehaviour>();
